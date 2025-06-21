@@ -37,7 +37,7 @@
     "react-router": "^2.4.1",
     "redux": "^3.5.2",
     "redux-actions": "^0.9.1",
-    "redux-promise": "^0.5.3",
+    "redux-promise": "^0.6.0",
     "run-sequence": "^1.2.1",
     "sw-precache": "https://github.com/GoogleChrome/sw-precache#master",
     "vinyl-buffer": "^1.0.0",
